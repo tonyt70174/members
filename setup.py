@@ -7,7 +7,7 @@ from discord.ext.commands import Bot
  
 # constants
 PREFIX = "~"
-TOKEN = "NDU2MTkxMjA0NTM1ODI4NDgx.DgG_Sw.94-EjHT4jZJHbPmz67qD-fllxlQ"
+TOKEN = "EDIT"
  
 bot = Bot(command_prefix=PREFIX)
  
